@@ -3,7 +3,7 @@ from pypdf import PdfWriter
 
 # pasta onde estão os PDFs
 input_folder = "pdfs"
-output_file = "resultado.pdf"
+output_file = "docSEI.pdf"
 
 # cria o objeto que vai juntar os PDFs
 merger = PdfWriter()
